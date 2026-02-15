@@ -140,7 +140,7 @@ They are best used together with multistage Docker builds.
 | Shell Access	| Yes	| No|   
 | Package Manager	| Yes	| No|   
 | Debugging Tools	| Included	| Not Included|   
-| Image Size	L| arger	| Smaller|   
+| Image Size	| Larger	| Smaller|   
 | Security	| Moderate	| Higher|   
 | Production Use	| Common	| Best Practice|   
 
